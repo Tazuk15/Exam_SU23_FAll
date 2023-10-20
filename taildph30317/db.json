@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "iphone 12",
+      "price": "200",
+      "desc": "sdsdsds",
+      "id": 14
+    },
+    {
+      "name": "san pham A",
+      "price": "200",
+      "desc": "mo ta cho san pham",
+      "id": 15
+    },
+    {
+      "name": "tai",
+      "price": "",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "name": "123123",
+      "price": "123123",
+      "desc": "12312312312312312312",
+      "id": 17
+    }
+  ]
+}
